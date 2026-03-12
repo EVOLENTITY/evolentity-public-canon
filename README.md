@@ -10,3 +10,4 @@ EVOLENTITY operates as an observer, aggregator, and verifier of trust signals ac
 
 EVOLENTITY Vision 5.0 — Global Trust Observatory for the Autonomous Economy.
 Public institutional document describing the strategic rationale for a global trust measurement infrastructure for autonomous systems.
+Update README with canonical foundation documents
